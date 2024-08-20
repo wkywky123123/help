@@ -52,7 +52,7 @@ export default siteConfig({
    navigationLinks: [
      {
        title: '关于我',
-       pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+       pageId: '0c84969895e34a2d88652c2c7a97de2f'
      }
   //别忘了加，！！！
   //   {
