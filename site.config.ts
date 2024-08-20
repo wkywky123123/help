@@ -51,7 +51,7 @@ export default siteConfig({
   navigationStyle: 'custom',
    navigationLinks: [
      {
-       title: 'About',
+       title: '关于我',
        pageId: 'f1199d37579b41cbabfc0b5174f4256a'
      }
   //别忘了加，！！！
