@@ -51,8 +51,8 @@ export default siteConfig({
   navigationStyle: 'custom',
    navigationLinks: [
      {
-       title: '关于我',
-       pageId: '0c84969895e34a2d88652c2c7a97de2f'
+       title: '下载',
+       pageId: 'dd5ebd53a4f44771bd23b6a0bedc8e3c'
      }
   //别忘了加，！！！
   //   {
